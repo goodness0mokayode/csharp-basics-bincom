@@ -42,6 +42,6 @@ This project showcases my commitment to learning full-stack C# development with 
 ## 📬 Contact
 
 **Goodness Omokayode**  
-[GitHub](https://github.com/your-username) | [LinkedIn](#) | [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/goodness0mokayode) | [LinkedIn](https://www.linkedin.com/in/goodness-omokayode-219615215/) | [Email](mailto:goodnessomokayode@gmail.com)
 
 
