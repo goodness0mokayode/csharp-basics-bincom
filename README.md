@@ -19,9 +19,6 @@ This repository contains my work from the **Bincom Academy C# Beginners Course**
 
 ## 📁 Repository Structure
 bincom-csharp-assignments/
-├── Session1_HelloWorld/ # Hello World + Azure deployment
-├── Session2_CVWebsite/ # Coming soon...
-├── README.md
 
 ---
 
