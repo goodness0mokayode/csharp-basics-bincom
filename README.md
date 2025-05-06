@@ -1,2 +1,47 @@
-# csharp-basics-bincom
-A structured collection of beginner-to-intermediate C# programming assignments, completed as part of the Bincom Academy C# Beginners Course. Demonstrates foundational skills in object-oriented programming, control structures, and algorithmic problem-solving.
+# Bincom Academy C# Beginners Course
+
+This repository contains my work from the **Bincom Academy C# Beginners Course**, where I’m learning the foundations of C# development, web applications, databases, APIs, and DevOps practices using Microsoft technologies.
+
+---
+
+## 🧠 What I’m Learning
+
+- ✅ C# programming basics
+- ✅ Visual Studio and GitHub setup
+- ✅ Deploying projects to Microsoft Azure
+- 🔜 MVC architecture and web app development
+- 🔜 Database integration with MS SQL
+- 🔜 RESTful APIs with Swagger documentation
+- 🔜 CI/CD pipelines using Azure DevOps
+- 🔜 SOLID principles and clean code design
+
+---
+
+## 📁 Repository Structure
+bincom-csharp-assignments/
+├── Session1_HelloWorld/ # Hello World + Azure deployment
+├── Session2_CVWebsite/ # Coming soon...
+├── README.md
+
+---
+
+## 🛠️ Current Progress
+
+- ✅ Published my first "Hello World" application on Azure
+- ✅ Connected GitHub for version control and deployment
+- 🟡 Updating repo weekly as I progress through the course
+
+---
+
+## 💼 About This Repo
+
+This project showcases my commitment to learning full-stack C# development with modern tools and best practices. I’m building this portfolio to demonstrate both technical growth and consistency as I move toward junior software development roles.
+
+---
+
+## 📬 Contact
+
+**Goodness Omokayode**  
+[GitHub](https://github.com/your-username) | [LinkedIn](#) | [Email](mailto:your.email@example.com)
+
+
