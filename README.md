@@ -4,7 +4,7 @@ This repository contains my work from the **Bincom Academy C# Beginners Course**
 
 ---
 
-## 🧠 What I’m Learning
+## What I’m Learning
 
 - ✅ C# programming basics
 - ✅ Visual Studio and GitHub setup
@@ -15,14 +15,8 @@ This repository contains my work from the **Bincom Academy C# Beginners Course**
 - 🔜 CI/CD pipelines using Azure DevOps
 - 🔜 SOLID principles and clean code design
 
----
 
-## 📁 Repository Structure
-bincom-csharp-assignments/
-
----
-
-## 🛠️ Current Progress
+## Current Progress
 
 - ✅ Published my first "Hello World" application on Azure
 - ✅ Connected GitHub for version control and deployment
@@ -30,13 +24,13 @@ bincom-csharp-assignments/
 
 ---
 
-## 💼 About This Repo
+## About This Repo
 
 This project showcases my commitment to learning full-stack C# development with modern tools and best practices. I’m building this portfolio to demonstrate both technical growth and consistency as I move toward junior software development roles.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Goodness Omokayode**  
 [GitHub](https://github.com/goodness0mokayode) | [LinkedIn](https://www.linkedin.com/in/goodness-omokayode-219615215/) | [Email](mailto:goodnessomokayode@gmail.com)
