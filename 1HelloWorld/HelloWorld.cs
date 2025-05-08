@@ -1,13 +1,14 @@
-﻿using System;
-
+﻿
 namespace _1HelloWorld
 {
-    class HW
+    class HWWebApp
     {
         static void main(String[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.ReadLine();
+            var builder = WebApplication.CreateBuilder(args);
+            var app = builder.Build();
+            app.MapGet("/", () => "Hello, World!");
+            app.Run();
         }
     }
 }
