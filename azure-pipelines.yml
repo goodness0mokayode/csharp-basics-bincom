@@ -46,7 +46,7 @@ steps:
 - task: AzureWebApp@1
   displayName: 'Deploy to Azure Web App'
   inputs:
-    azureSubscription: ''
+    azureSubscription: 'AzureWebAppConnection'
     appType: 'webApp'
-    appName: '<YOUR-AZURE-WEBAPP-NAME>'
+    appName: 'Goodness-Omokayode-Portfolio-Bincom'
     package: '$(publishDir)/*.zip'
