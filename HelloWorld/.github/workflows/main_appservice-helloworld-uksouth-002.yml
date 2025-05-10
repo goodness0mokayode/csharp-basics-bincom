@@ -26,8 +26,10 @@ jobs:
 - name: Display working directory
   run: dir
 
-- name: Build with dotnet
-  run: dotnet build csharp-basics-bincom/HelloWorld --configuration Release
+- - name: Build with dotnet
+  run: |
+    cd csharp-basics-bincom/HelloWorld
+    dotnet build --configuration Release
 
       - name: dotnet publish
         run: dotnet publish csharp-basics-bincom/HelloWorld -c Release -o "${{env.DOTNET_ROOT}}/myapp"
