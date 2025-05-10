@@ -27,10 +27,10 @@ jobs:
           run: dir csharp-basics-bincom/HelloWorld
 
       - name: Build with dotnet
-        run: dotnet build HelloWorld/ --configuration Release
+        run: dotnet build HelloWorld/HelloWorld.csproj  --configuration Release
 
       - name: dotnet publish
-        run: dotnet publish HelloWorld/ -c Release -o "${{env.DOTNET_ROOT}}/myapp"
+        run: dotnet publish HelloWorld/HelloWorld.csproj  -c Release -o "${{env.DOTNET_ROOT}}/myapp"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
