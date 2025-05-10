@@ -18,8 +18,9 @@ This repository contains my work from the **Bincom Academy C# Beginners Course**
 
 ## Current Progress
 
-- ✅ Published my first "Hello World" application on Azure
+- ✅ Deployed enterprise-grade solutions to Azure with full CI/CD automation via GitHub Actions.
 - ✅ Connected GitHub for version control and deployment
+- ✅ Deployed Live Hosting Environment (WIP)
 - 🟡 Updating repo weekly as I progress through the course
 
 ---
