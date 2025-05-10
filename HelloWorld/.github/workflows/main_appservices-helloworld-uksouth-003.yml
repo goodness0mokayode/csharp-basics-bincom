@@ -24,7 +24,7 @@ jobs:
           dotnet-version: '9.x'
           
        - name: Check project file exists
-          run: dir csharp-basics-bincom/HelloWorld
+          run: dir HelloWorld
 
       - name: Build with dotnet
         run: dotnet build HelloWorld/HelloWorld.csproj  --configuration Release
