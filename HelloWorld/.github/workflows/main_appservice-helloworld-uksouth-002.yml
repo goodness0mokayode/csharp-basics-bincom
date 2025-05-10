@@ -1,5 +1,3 @@
-# GitHub Actions Workflow: Build and Deploy ASP.NET Core App to Azure Web App
-
 name: Build and deploy ASP.Net Core app to Azure Web App - appservice-helloworld-uksouth-002
 
 on:
@@ -12,7 +10,7 @@ jobs:
   build:
     runs-on: windows-latest
     permissions:
-      contents: read # Required for actions/checkout
+      contents: read
 
     steps:
       - uses: actions/checkout@v4
@@ -20,18 +18,15 @@ jobs:
       - name: Set up .NET SDK
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.x' # Change to your actual target version if needed
+          dotnet-version: '8.x' # or whatever version you're using
 
-      - name: Verify .csproj exists
-        run: dir csharp-basics-bincom/HelloWorld
+      - name: Build project
+        run: dotnet build HelloWorld/HelloWorld.csproj --configuration Release
 
-      - name: Build with dotnet
-        run: dotnet build csharp-basics-bincom/HelloWorld/HelloWorld.csproj --configuration Release
+      - name: Publish project
+        run: dotnet publish HelloWorld/HelloWorld.csproj -c Release -o '${{env.DOTNET_ROOT}}/myapp'
 
-      - name: Publish with dotnet
-        run: dotnet publish csharp-basics-bincom/HelloWorld/HelloWorld.csproj -c Release -o "${{env.DOTNET_ROOT}}/myapp"
-
-      - name: Upload artifact for deployment job
+      - name: Upload artifact for deployment
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
@@ -48,7 +43,7 @@ jobs:
       contents: read
 
     steps:
-      - name: Download artifact from build job
+      - name: Download build artifact
         uses: actions/download-artifact@v4
         with:
           name: .net-app
@@ -59,12 +54,4 @@ jobs:
         with:
           client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_2079A00C05A342DE9016BBD7EA493DD2 }}
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_3C7E09E7A3CF4CC083399D1EB4459DA3 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_C35C5685EC4948A19ADB254C633F7CF4 }}
-
-      - name: Deploy to Azure Web App
-        id: deploy-to-webapp
-        uses: azure/webapps-deploy@v3
-        with:
-          app-name: 'appservice-helloworld-uksouth-002'
-          slot-name: 'Production'
-          package: './published'
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONI_
