@@ -23,14 +23,14 @@ jobs:
         with:
           dotnet-version: '9.x'
           
-       - name: Check project file exists
-          run: dir HelloWorld
+      - name: Check project file exists
+        run: dir HelloWorld/HelloWorld.csproj
 
       - name: Build with dotnet
-        run: dotnet build HelloWorld/HelloWorld.csproj  --configuration Release
+        run: dotnet build HelloWorld/  --configuration Release
 
       - name: dotnet publish
-        run: dotnet publish HelloWorld/HelloWorld.csproj  -c Release -o "${{env.DOTNET_ROOT}}/myapp"
+        run: dotnet publish HelloWorld/  -c Release -o "${{env.DOTNET_ROOT}}/myapp"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
