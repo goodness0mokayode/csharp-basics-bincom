@@ -22,6 +22,9 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '9.x'
+          
+       - name: Check project file exists
+          run: dir csharp-basics-bincom/HelloWorld
 
       - name: Build with dotnet
         run: dotnet build HelloWorld/ --configuration Release
