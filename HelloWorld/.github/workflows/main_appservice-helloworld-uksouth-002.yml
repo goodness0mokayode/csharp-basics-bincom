@@ -24,7 +24,7 @@ jobs:
           dotnet-version: '9.x'
 
       - name: Build with dotnet
-        run: dotnet build 1HelloWorld --configuration Release
+        run: dotnet build 1HelloWorld.sln --configuration Release
 
       - name: dotnet publish
         run: dotnet publish 1HelloWorld -c Release -o "${{env.DOTNET_ROOT}}/myapp"
