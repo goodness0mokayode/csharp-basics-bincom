@@ -18,13 +18,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up .NET Core
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '9.x'
+- name: Set up .NET Core SDK
+  uses: actions/setup-dotnet@v4
+  with:
+    dotnet-version: '9.x'  # Adjust if your project targets .NET 6 or 7
 
-      - name: Build with dotnet
-        run: dotnet build csharp-basics-bincom/HelloWorld --configuration Release
+- name: Display working directory
+  run: dir
+
+- name: Build with dotnet
+  run: dotnet build csharp-basics-bincom/HelloWorld --configuration Release
 
       - name: dotnet publish
         run: dotnet publish csharp-basics-bincom/HelloWorld -c Release -o "${{env.DOTNET_ROOT}}/myapp"
