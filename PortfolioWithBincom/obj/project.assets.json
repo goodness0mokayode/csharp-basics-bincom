@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\PortfolioWithBincom\\PortfolioWithBincom.csproj",
+      "projectUniqueName": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\PortfolioWithBincom.csproj",
       "projectName": "PortfolioWithBincom",
-      "projectPath": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\PortfolioWithBincom\\PortfolioWithBincom.csproj",
+      "projectPath": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\PortfolioWithBincom.csproj",
       "packagesPath": "C:\\Users\\goodn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\PortfolioWithBincom\\obj\\",
+      "outputPath": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

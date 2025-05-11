@@ -1,5 +1,5 @@
-using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
+/*using System.Diagnostics;
+usingMicrosoft.AspNetCore.Mvc;
 using PortfolioWithBincom.Models;
 
 namespace PortfolioWithBincom.Controllers
@@ -15,7 +15,7 @@ namespace PortfolioWithBincom.Controllers
 
         public IActionResult Index()
         {
-            return RedirectToAction("Portfolio", "Index");
+            return RedirectToAction("Portfolio", "Index";
         }
 
         public IActionResult Privacy()
@@ -29,4 +29,4 @@ namespace PortfolioWithBincom.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
-}
+}//
