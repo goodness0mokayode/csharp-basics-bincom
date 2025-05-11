@@ -1,5 +1,5 @@
-/*using System.Diagnostics;
-usingMicrosoft.AspNetCore.Mvc;
+using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
 using PortfolioWithBincom.Models;
 
 namespace PortfolioWithBincom.Controllers
@@ -15,7 +15,7 @@ namespace PortfolioWithBincom.Controllers
 
         public IActionResult Index()
         {
-            return RedirectToAction("Portfolio", "Index";
+            return View();
         }
 
         public IActionResult Privacy()
@@ -23,10 +23,15 @@ namespace PortfolioWithBincom.Controllers
             return View();
         }
 
+        public IActionResult Projects()
+        {
+            return View();
+        }
+ 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
-}//
+}

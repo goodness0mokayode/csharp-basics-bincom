@@ -3,9 +3,9 @@
     "",
     "\\Controllers",
     "\\Views",
-    "\\Views\\Home",
-    "\\Views\\Portfolio"
+    "\\Views\\CV",
+    "\\Views\\Home\\NewFolder"
   ],
-  "SelectedNode": "\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Controllers\\CVController.cs",
   "PreviewInSolutionExplorer": false
 }
