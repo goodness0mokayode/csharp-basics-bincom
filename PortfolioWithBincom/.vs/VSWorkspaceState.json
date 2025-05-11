@@ -6,6 +6,6 @@
     "\\Views\\Home",
     "\\Views\\Portfolio"
   ],
-  "SelectedNode": "\\Views\\Portfolio\\Index.cshtml",
+  "SelectedNode": "\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

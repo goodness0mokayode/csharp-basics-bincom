@@ -15,7 +15,7 @@ namespace PortfolioWithBincom.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Portfolio", "Index");
         }
 
         public IActionResult Privacy()
