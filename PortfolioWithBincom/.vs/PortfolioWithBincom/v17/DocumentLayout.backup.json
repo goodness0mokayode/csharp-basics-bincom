@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Models\\CVModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CVModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Models\\TaxCalculatorModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TaxCalculatorModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Projects\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Projects\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\TaxCalculator\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\TaxCalculator\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\CV\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CV\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\TaxCalculatorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TaxCalculatorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\CVController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CVController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +74,130 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CVModel.cs",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Models\\CVModel.cs",
+              "RelativeDocumentMoniker": "Models\\CVModel.cs",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Models\\CVModel.cs",
+              "RelativeToolTip": "Models\\CVModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:13:27.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxCalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Models\\TaxCalculatorModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaxCalculatorModel.cs",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Models\\TaxCalculatorModel.cs",
+              "RelativeToolTip": "Models\\TaxCalculatorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:12:40.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\TaxCalculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaxCalculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\TaxCalculator\\Index.cshtml",
+              "RelativeToolTip": "Views\\TaxCalculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T17:04:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxCalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\TaxCalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaxCalculatorController.cs",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\TaxCalculatorController.cs",
+              "RelativeToolTip": "Controllers\\TaxCalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:02:46.118Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T16:58:36.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\CV\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CV\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\CV\\Index.cshtml",
+              "RelativeToolTip": "Views\\CV\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T16:29:18.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CVController.cs",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\CVController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CVController.cs",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\CVController.cs",
+              "RelativeToolTip": "Controllers\\CVController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:26:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:24:03.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T16:13:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T16:12:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -42,12 +205,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:19:01.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T15:19:01.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -55,34 +217,31 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T13:11:36.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:11:36.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAA4G3QwwDAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAABN4/kuwC4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T12:54:33.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T12:54:33.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAACuLG4GwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-12T12:54:19.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T12:54:19.999Z"
             }
           ]
         }

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PortfolioWithBincom.Controllers
 {
-    public class CVController : Controller
+    public class ProjectsController : Controller
     {
         public IActionResult Index()
         {
