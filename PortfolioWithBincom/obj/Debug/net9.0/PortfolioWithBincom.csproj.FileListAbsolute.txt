@@ -116,7 +116,6 @@ C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWi
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\scopedcss\bundle\PortfolioWithBincom.styles.css
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\scopedcss\projectbundle\PortfolioWithBincom.bundle.scp.css
-C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\5xp70t1usk-b9sayid5wm.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\1jngctc703-61n19gt1b8.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\qa9wlf7dnb-xtxxf3hu2r.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\9qk0wwankd-bqjiyaj88i.gz
@@ -178,8 +177,6 @@ C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWi
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\an24hgasbl-muycvpuwrr.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\d1qtfjx8dd-87fc7y1x7t.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\nb94lq86jh-mlv21k5csn.gz
-C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\ftafrj453a-ycttx20lbw.gz
-C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\qek0xlu4dk-ycttx20lbw.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -194,3 +191,6 @@ C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWi
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\PortfolioWithBincom.pdb
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\PortfolioWithBincom.genruntimeconfig.cache
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\ref\PortfolioWithBincom.dll
+C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\ftafrj453a-oyks90a240.gz
+C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\qek0xlu4dk-oyks90a240.gz
+C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\5xp70t1usk-c0ycriojl5.gz

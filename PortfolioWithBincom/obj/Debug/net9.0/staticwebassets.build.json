@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qu/LAnk2Aq6CuY1XKiDft01TiHq9ZaskuMfZnc9iYoo=",
+  "Hash": "kKDvh5JlHk98UOJ+9jxSllehevydvif9/5WdvCNUl9Q=",
   "Source": "PortfolioWithBincom",
   "BasePath": "_content/PortfolioWithBincom",
   "Mode": "Default",
@@ -206,12 +206,12 @@
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-c0ycriojl5.gz",
       "SourceId": "PortfolioWithBincom",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PortfolioWithBincom",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=c0ycriojl5}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -220,8 +220,8 @@
       "RelatedAsset": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "nsfcm2zzug",
+      "Integrity": "9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css"
@@ -626,12 +626,12 @@
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-ycttx20lbw.gz",
+      "Identity": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-oyks90a240.gz",
       "SourceId": "PortfolioWithBincom",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PortfolioWithBincom",
-      "RelativePath": "PortfolioWithBincom#[.{fingerprint=ycttx20lbw}]?.styles.css.gz",
+      "RelativePath": "PortfolioWithBincom#[.{fingerprint=oyks90a240}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -640,8 +640,8 @@
       "RelatedAsset": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PortfolioWithBincom.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8lf0vgkyol",
-      "Integrity": "7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=",
+      "Fingerprint": "fdjbu0qdbq",
+      "Integrity": "0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PortfolioWithBincom.styles.css"
@@ -976,19 +976,19 @@
       "RelatedAsset": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fpxp8wntf7",
-      "Integrity": "465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=",
+      "Fingerprint": "rl5dcbfpcw",
+      "Integrity": "Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-ycttx20lbw.gz",
+      "Identity": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-oyks90a240.gz",
       "SourceId": "PortfolioWithBincom",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PortfolioWithBincom",
-      "RelativePath": "PortfolioWithBincom#[.{fingerprint=ycttx20lbw}]!.bundle.scp.css.gz",
+      "RelativePath": "PortfolioWithBincom#[.{fingerprint=oyks90a240}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -997,8 +997,8 @@
       "RelatedAsset": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PortfolioWithBincom.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8lf0vgkyol",
-      "Integrity": "7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=",
+      "Fingerprint": "fdjbu0qdbq",
+      "Integrity": "0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PortfolioWithBincom.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "ycttx20lbw",
-      "Integrity": "4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=",
+      "Fingerprint": "oyks90a240",
+      "Integrity": "4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PortfolioWithBincom.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "ycttx20lbw",
-      "Integrity": "4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=",
+      "Fingerprint": "oyks90a240",
+      "Integrity": "4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PortfolioWithBincom.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "c0ycriojl5",
+      "Integrity": "1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-b9sayid5wm.gz",
+      "Route": "css/site.c0ycriojl5.css",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-c0ycriojl5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.001212121212"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "824"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 16:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "c0ycriojl5"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.c0ycriojl5.css",
       "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "2191"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 16:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "c0ycriojl5"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-b9sayid5wm.gz",
+      "Route": "css/site.c0ycriojl5.css.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-c0ycriojl5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "824"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 16:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "c0ycriojl5"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-c0ycriojl5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.001212121212"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "824"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 16:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "2191"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 16:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1AVS6+2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\5xp70t1usk-c0ycriojl5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "824"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 16:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-9+ixiXk7j0NkevkpKWBDm6aaM0lbZ3B34tW9R0YjGqM="
         }
       ]
     },
@@ -3330,7 +3330,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005235602094"
+          "Quality": "0.005263157895"
         }
       ],
       "ResponseHeaders": [
@@ -3340,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "189"
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 11:00:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3401,7 +3401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 11:00:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3426,7 +3426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "189"
         },
         {
           "Name": "Content-Type",
@@ -3434,11 +3434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 11:00:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3456,7 +3456,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
         }
       ]
     },
@@ -3467,7 +3467,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005235602094"
+          "Quality": "0.005263157895"
         }
       ],
       "ResponseHeaders": [
@@ -3477,15 +3477,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "189"
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 11:00:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3546,7 +3546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 11:00:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3579,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "189"
         },
         {
           "Name": "Content-Type",
@@ -3587,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:17:45 GMT"
+          "Value": "Mon, 12 May 2025 11:00:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3617,7 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
         }
       ]
     },
@@ -21287,12 +21287,12 @@
     },
     {
       "Route": "PortfolioWithBincom.bundle.scp.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-ycttx20lbw.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-oyks90a240.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001821493625"
+          "Quality": "0.002232142857"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21302,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "447"
         },
         {
           "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21330,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
+          "Value": "W/\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
         }
       ]
     },
@@ -21351,7 +21351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "930"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21359,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
+          "Value": "\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21373,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
         }
       ]
     },
     {
       "Route": "PortfolioWithBincom.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-ycttx20lbw.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-oyks90a240.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "447"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21418,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A="
+          "Value": "sha256-0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA="
         }
       ]
     },
     {
-      "Route": "PortfolioWithBincom.styles.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-ycttx20lbw.gz",
+      "Route": "PortfolioWithBincom.oyks90a240.bundle.scp.css",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-oyks90a240.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001821493625"
+          "Quality": "0.002232142857"
         }
       ],
       "ResponseHeaders": [
@@ -21439,152 +21439,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "447"
         },
         {
           "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
-        }
-      ]
-    },
-    {
-      "Route": "PortfolioWithBincom.styles.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PortfolioWithBincom.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
-        }
-      ]
-    },
-    {
-      "Route": "PortfolioWithBincom.styles.css.gz",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-ycttx20lbw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A="
-        }
-      ]
-    },
-    {
-      "Route": "PortfolioWithBincom.ycttx20lbw.bundle.scp.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-ycttx20lbw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001821493625"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "548"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21604,13 +21467,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
+          "Value": "W/\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycttx20lbw"
+          "Value": "oyks90a240"
         },
         {
           "Name": "label",
@@ -21618,12 +21481,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
         }
       ]
     },
     {
-      "Route": "PortfolioWithBincom.ycttx20lbw.bundle.scp.css",
+      "Route": "PortfolioWithBincom.oyks90a240.bundle.scp.css",
       "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PortfolioWithBincom.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21633,7 +21496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "930"
         },
         {
           "Name": "Content-Type",
@@ -21641,11 +21504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
+          "Value": "\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21655,7 +21518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycttx20lbw"
+          "Value": "oyks90a240"
         },
         {
           "Name": "label",
@@ -21663,13 +21526,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
         }
       ]
     },
     {
-      "Route": "PortfolioWithBincom.ycttx20lbw.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-ycttx20lbw.gz",
+      "Route": "PortfolioWithBincom.oyks90a240.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\qek0xlu4dk-oyks90a240.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21678,7 +21541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "447"
         },
         {
           "Name": "Content-Type",
@@ -21686,11 +21549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21708,7 +21571,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycttx20lbw"
+          "Value": "oyks90a240"
         },
         {
           "Name": "label",
@@ -21716,18 +21579,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A="
+          "Value": "sha256-0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA="
         }
       ]
     },
     {
-      "Route": "PortfolioWithBincom.ycttx20lbw.styles.css",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-ycttx20lbw.gz",
+      "Route": "PortfolioWithBincom.oyks90a240.styles.css",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-oyks90a240.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001821493625"
+          "Quality": "0.002232142857"
         }
       ],
       "ResponseHeaders": [
@@ -21737,15 +21600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "447"
         },
         {
           "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21765,13 +21628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
+          "Value": "W/\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycttx20lbw"
+          "Value": "oyks90a240"
         },
         {
           "Name": "label",
@@ -21779,12 +21642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
         }
       ]
     },
     {
-      "Route": "PortfolioWithBincom.ycttx20lbw.styles.css",
+      "Route": "PortfolioWithBincom.oyks90a240.styles.css",
       "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PortfolioWithBincom.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21794,7 +21657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "930"
         },
         {
           "Name": "Content-Type",
@@ -21802,11 +21665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg=\""
+          "Value": "\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21816,7 +21679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycttx20lbw"
+          "Value": "oyks90a240"
         },
         {
           "Name": "label",
@@ -21824,13 +21687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4oKebt0uC4VhSUvlBEpMpToLU5AF72Jq6I0DQ2Rh7eg="
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
         }
       ]
     },
     {
-      "Route": "PortfolioWithBincom.ycttx20lbw.styles.css.gz",
-      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-ycttx20lbw.gz",
+      "Route": "PortfolioWithBincom.oyks90a240.styles.css.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-oyks90a240.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21839,7 +21702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "447"
         },
         {
           "Name": "Content-Type",
@@ -21847,11 +21710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A=\""
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 18:43:28 GMT"
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21869,7 +21732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycttx20lbw"
+          "Value": "oyks90a240"
         },
         {
           "Name": "label",
@@ -21877,7 +21740,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7M0CSfueEb1BdSq7yaKTCN8UVsmFsuKjqyNRvwjpM/A="
+          "Value": "sha256-0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA="
+        }
+      ]
+    },
+    {
+      "Route": "PortfolioWithBincom.styles.css",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-oyks90a240.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002232142857"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
+        }
+      ]
+    },
+    {
+      "Route": "PortfolioWithBincom.styles.css",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PortfolioWithBincom.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4N09N4h0bjyht1h3odeZ1gbHa5E9QB2kVCGaceLkcwg="
+        }
+      ]
+    },
+    {
+      "Route": "PortfolioWithBincom.styles.css.gz",
+      "AssetFile": "C:\\Users\\goodn\\OneDrive\\Bincom\\Assignments\\repo\\csharp-basics-bincom\\PortfolioWithBincom\\obj\\Debug\\net9.0\\compressed\\ftafrj453a-oyks90a240.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0/Q8r3mKx/xzdbIDC2bv+4vYEsRBm6GSz80jzr1GojA="
         }
       ]
     }

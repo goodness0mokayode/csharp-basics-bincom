@@ -2,14 +2,66 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="font-weight-light"> Hello, my name is </h1>
-    <h1 class="display-4"> Goodness Omokayode</h1>
-    <p>
-        This portfolio is a professional training artifact developed through the support and via the C# Cirriculum as conducted by Bincom Academy
-        <a> href = https://bincom.net/academy/</a>
-    </p>
-    <h3> Core Technical Stack: C#, .NET, Azure, GitHub </h3>
+<!--introduction, using typewriter and slide effects-->
+<div class="typewriter">
+    <h1 class="font-weight-light"> Hello, my name is Goodness Omokayode!</h1>
 </div>
+<div class="container">
+    <!-- Row container to hold box and cards side by side using-->
+    <div class="row">
+        <div class="centered-box">
+            <p>
+                This portfolio is a professional training artifact developed through the support and via the C# Cirriculum as conducted by
+                <a href="https://bincom.net/academy/" target="_blank">Bincom Academy.</a>
+                As part of my learning journey, this portfolio will demonstrate the following achievements by the course's time of completion':
+                <ul>
+                    <li>Mastery of core programming concepts in C# and .NET</li>
+                    <li>Experience with cloud technologies, including Azure</li>
+                    <li>Competence in version control using GitHub</li>
+                    <li>Ability to develop web applications using ASP.NET Core MVC</li>
+                    <li>Experience with database management and data integration in real-world applications</li>
+                </ul>
+            </p>
+            <p></p>
+            <p class="font-weight-light">
+                Core Technical Stack:
+                <ul>
+                    <li>C#</li>
+                    <li>.NET</li>
+                    <li>Azure</li>
+                    <li>GitHub</li>
+                    <li>SQL Server</li>
+                    <li>ASP.NET Core MVC</li>
+                </ul>
+            </p>
+        </div>
+        <!-- card 1 (CV) -->
+        <div class="col-auto g-5" style="margin-top: 30px;">
+            <div class="card" style="width: 22rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Curriculum Vitae</h5>
+                    <p class="card-text">
+                        A clean, professional online resume showcasing my career journey, technical experience, and achievements.
+                        Built with ASP.Net Core MVC, this CV includes an interactive design, making it easy to navigate through my
+                        professional experiences and accomplishments. Explore my resume to see the full scope of my experience👇.
+                    </p>
+                    <a class="btn btn-outline-danger" style="width: 8rem;" asp-controller="CV" asp-action="Index">View My CV</a>
+                </div>
+            </div>
+        </div>
 
-<a class="btn btn-primary" asp-controller="Home" asp-action="Projects">View My Projects</a>
+        <!-- card 2 (Projects) -->
+        <div class="col-auto g-5" style="margin-top: 30px;">
+            <div class="card" style="width: 22rem;">
+                <div class="card-body">
+                    <h5 class="card-title">My Projects</h5>
+                    <p class="card-text">
+                        This section highlights key projects I've built during my training at Bincom Academy, ranging from a simple tax
+                        calculator to my personal portfolio. Each project is built using specific technologies, with full access to
+                        the relevant documentation and GitHub repositories. Explore my full project portfolio to see the tech stacks
+                        I have worked with👇.
+                    </p>
+                    <a class="btn btn-outline-danger" style="width: 8rem;" asp-controller="Home" asp-action="Projects">View Projects</a>
+                </div>
+            </div>
+        </div>
