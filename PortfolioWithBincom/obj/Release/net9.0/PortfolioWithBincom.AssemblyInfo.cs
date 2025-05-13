@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortfolioWithBincom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+716089346fa796c0000120c177d620c90cd997ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c5ee4f1d2d1c94a1c52b0e30c5ee8bb38c8b11a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortfolioWithBincom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortfolioWithBincom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Models",
     "\\Views",
-    "\\Views\\CV",
-    "\\Views\\TaxCalculator"
+    "\\Views\\Home"
   ],
+  "SelectedNode": "\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

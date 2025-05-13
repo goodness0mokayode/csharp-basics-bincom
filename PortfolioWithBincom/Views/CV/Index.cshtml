@@ -1,12 +1,65 @@
-<h1 class="text-center">My Experience</h1>
-<p class="text-center">
-    Connect with me on 
-    <a href="https://www.linkedin.com/in/goodness-omokayode-219615215/" target="_blank">LinkedIn</a> or contact me via
-    <a href="mailto:goodnessomokayode@gmail.com" target="_blank">Email</a>
-    </p>
+@model CVModel
 
-<div class="container">
-    <div class="text-center">
+<div class="container" style="font-family: 'Times New Roman', Times, serif">
+        <h2 class="text-center">@Model.Name</h2>
+        <p class="text-center">Contact me via <a href="mailto:@Model.Email" target="_blank">email</a> or connect on <a href="@Model.LinkedIn" target="_blank">LinkedIn</a></p>
+        <p class="text-center">@Model.Summary</p>
 
-    </div>
+        <h3>Skills</h3>
+        <hr />
+
+            @foreach (var skill in Model.Skills)
+            {
+            <strong>Technical Skills:</strong><p> @skill.TechnicalSkills</p>
+            <strong>Soft Skills:</strong><p> @skill.SoftSkills</p>
+            <strong>Credentials:</strong> <p>@skill.Credentials</p>
+            }
+
+        <h3>Education</h3>
+        <hr />
+
+        @foreach (var education in Model.Education)
+        {
+        <div>
+            <strong>@education.SchoolName</strong>&ensp;<i>@education.DurationStudied</i><br />
+            <p>@education.SchoolSummary</p>
+        </div>
+        }
+
+        <h3>Experience</h3>
+        <hr />
+
+        <h5><strong><i>Technical Experience</i></strong></h5>
+        @foreach (var techExp in Model.TechnicalExp)
+        {
+        <div>
+            <strong>@techExp.JobTitle</strong>&ensp;<i>@techExp.CompanyName</i><br />
+            <em>@techExp.Duration</em>
+            <p>
+                <ul>
+                    @foreach (var desc in techExp.Description)
+                        {
+                    <li>@desc</li>
+                        }
+                </ul>
+            </p>
+        </div>
+        }
+
+        <h5><strong><i>Non-Technical Experience</i></strong></h5>
+        @foreach (var nonTechExp in Model.NonTechnicalExp)
+        {
+        <div>
+            <strong>@nonTechExp.JobTitle</strong>&ensp;<i>@nonTechExp.CompanyName</i><br />
+            <em>@nonTechExp.Duration</em>
+            <p>
+                <ul>
+                    @foreach (var desc in nonTechExp.Description)
+                        {
+                    <li>@desc</li>
+                        }
+                </ul>
+            </p>
+        </div>
+        }
 </div>
