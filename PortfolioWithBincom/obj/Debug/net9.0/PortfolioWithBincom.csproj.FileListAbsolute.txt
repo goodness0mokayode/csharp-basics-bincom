@@ -193,4 +193,4 @@ C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWi
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\ref\PortfolioWithBincom.dll
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\ftafrj453a-oyks90a240.gz
 C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\qek0xlu4dk-oyks90a240.gz
-C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\5xp70t1usk-c0ycriojl5.gz
+C:\Users\goodn\OneDrive\Bincom\Assignments\repo\csharp-basics-bincom\PortfolioWithBincom\obj\Debug\net9.0\compressed\5xp70t1usk-kqi71p7atu.gz

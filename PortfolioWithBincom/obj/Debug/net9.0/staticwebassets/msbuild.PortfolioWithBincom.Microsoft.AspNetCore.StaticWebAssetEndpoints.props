@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/PortfolioWithBincom/css/site.c0ycriojl5.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c0ycriojl5"},{"Name":"integrity","Value":"sha256-1AVS6\u002B2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s="},{"Name":"label","Value":"_content/PortfolioWithBincom/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2191"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221AVS6\u002B2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 16:16:06 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PortfolioWithBincom/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1AVS6\u002B2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2191"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221AVS6\u002B2DgDeha/8r72hVNJ0s51FoQbxy70JKaByVD1s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 16:16:06 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZBAahxmkWLy7DcRPPDYnfngqp5ymKEJwTn3M\u002B/tbo7M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2460"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZBAahxmkWLy7DcRPPDYnfngqp5ymKEJwTn3M\u002B/tbo7M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 21:12:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PortfolioWithBincom/css/site.kqi71p7atu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kqi71p7atu"},{"Name":"integrity","Value":"sha256-ZBAahxmkWLy7DcRPPDYnfngqp5ymKEJwTn3M\u002B/tbo7M="},{"Name":"label","Value":"_content/PortfolioWithBincom/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2460"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZBAahxmkWLy7DcRPPDYnfngqp5ymKEJwTn3M\u002B/tbo7M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 21:12:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PortfolioWithBincom/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
