@@ -8,33 +8,84 @@ namespace PortfolioWithBincom.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View(new TaxCalculatorModel());
+            var taxCalc = new TaxCalculatorModel();
+            return View(taxCalc);
         }
 
         [HttpPost]
         public IActionResult Index(TaxCalculatorModel model)
         {
-            if(ModelState.IsValid) {
-
-                if(model.Region == "UK") {
-                    model.TaxOwed = CalculateUKTax(model.Income);
-                }
-                if(model.Region == "Non-UK") {
-                    model.TaxOwed = CalculateInternationalTax(model.Income);
-                }
-                return View(model);
-        }
+            if (ModelState.IsValid)
+            {
+                model.TaxOwed = CalculateUKTax(model.GrossIncome);
+            }
             return View(model);
-    }
+        }
 
         private decimal CalculateUKTax(decimal income)
         {
-            decimal tax = 0;
+            decimal personalAllowance = 12750;
+            decimal basicRateLimit = 50270;
+            decimal higherRateLimit = 125140;
 
+            decimal basicRate = 0.2m;
+            decimal higherRate = 0.4m;
+            decimal additionalRate = 0.45m;
 
+            if (income <= personalAllowance)
+            {
+                return 0;
+            }
+
+            decimal totalTax = 0;
+            decimal taxableIncome = income - personalAllowance;
+
+            if (income > personalAllowance)
+            {
+                decimal basicBandMax = basicRateLimit - personalAllowance;
+                decimal basicBandIncome;
+
+                if (taxableIncome >= basicBandMax)
+                {
+                    basicBandIncome = basicBandMax;
+                }
+                else
+                {
+                    basicBandIncome = taxableIncome;
+                }
+
+                decimal basicTax = basicBandIncome * basicRate;
+                totalTax = totalTax + basicTax;
+                taxableIncome = taxableIncome - basicBandIncome;
+            }
+
+            if (income > basicRateLimit)
+            {
+                decimal higherBandMax = higherRateLimit - basicRateLimit;
+                decimal higherBandIncome;
+
+                if (taxableIncome >= higherBandMax)
+                {
+                    higherBandIncome = higherBandMax;
+                }
+                else
+                {
+                    higherBandIncome = taxableIncome;
+                }
+
+                decimal higherTax = higherBandIncome * higherRate;
+                totalTax = totalTax + higherTax;
+                taxableIncome = taxableIncome - higherBandIncome;
+            }
+
+            if (income > higherRateLimit)
+            {
+                decimal additionalTax = taxableIncome * additionalRate;
+                totalTax = totalTax + additionalTax;
+            }
+
+            return totalTax;
         }
-        private decimal CalculateInternationalTax(decimal income)
-        {
-            return income * 0.25m;
-        }
+
+    }
 }
